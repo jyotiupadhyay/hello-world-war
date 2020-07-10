@@ -3,7 +3,7 @@
 <title>Team 3 !</title>
 </head>
 <body>
-	background-image: url("images/bg.jpg");
+	
 	<h1>Hi, Welcome to the CICD Demo. This is a Team Demo</h1>
 	<br>
 	<h3>Jyoti</h3>
